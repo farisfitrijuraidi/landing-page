@@ -6,15 +6,15 @@ This project is a landing page website created as part of The Odin Project's fou
 
 Once completed, this project will have demonstrated the following skills:
 
-* **HTML Structure: Using semantic HTML to create distinct sections of a webpage, including a header, body content, and a footer.
-* **Flexbox for Layout: This was the primary focus of the project. I used Flexbox to:
+* **HTML Structure:** Using semantic HTML to create distinct sections of a webpage, including a header, body content, and a footer.
+* **Flexbox for Layout:** This was the primary focus of the project. I used Flexbox to:
 	* Structure the overall page layout.
 	* Align items horizontally and vertically.
 	* Create complex components like the header, information cards, and footer.
 	* Control the spacing and positioning of elements.
-* **CSS Styling: Applying fonts, colours, and sizing to match a design specification.
-* **Working with Elements: Using a variety of elements like divs, buttons, images, and lists to build a complete page.
-* **Git & GitHub: Using Git for version control and pushing the project to a GitHub repository.
+* **CSS Styling:** Applying fonts, colours, and sizing to match a design specification.
+* **Working with Elements:** Using a variety of elements like divs, buttons, images, and lists to build a complete page.
+* **Git & GitHub:** Using Git for version control and pushing the project to a GitHub repository.
 
 ## Self-Reflection
 
